@@ -5,7 +5,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQu
 
 # ================== CONFIG ==================
 url = "https://leakosintapi.com/"
-bot_token = "8180126477:AAGlA22hylJFK8WVq7nh1zyXf_leCHK8Kek"  # Bot token from @BotFather
+bot_token = "6230237564:AAE7x7FhoTe8LCOzXzTXc84rxGYV0PjcNVs"  # Bot token from @BotFather
 api_token = "7771703268:SghPFtBt"  # Insert LeakOSINT API token here (string)
 lang = "en"
 limit = 1000
